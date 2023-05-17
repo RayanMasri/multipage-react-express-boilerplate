@@ -20,7 +20,7 @@ function App() {
 			<header className='App-header'>
 				<img src={logo} className='App-logo' alt='logo' />
 				<p>
-					1 <code>srasdaadc/App.js</code> and save to reload.
+					1 <code>a/App.js</code> and save to reload.
 				</p>
 				<div className='App-link'>API Response: {state.apiResponse}</div>
 			</header>
